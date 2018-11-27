@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "serial.h": "c",
+        "unistd.h": "c",
+        "stdio.h": "c",
+        "fcntl.h": "c"
+    }
+}

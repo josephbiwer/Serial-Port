@@ -1,0 +1,2 @@
+#define OUTPUT_FILE         "output.txt"          // <---- Change this string to desired output file
+#define PORT_NAME           "/dev/tty.JOEBT3-DevB"     // <---- Change this string to desired serial port name
